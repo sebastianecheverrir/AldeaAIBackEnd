@@ -99,7 +99,7 @@ def ReadPostInfo():
             #print(DicInputs, flush=True)
 
 
-            apikey = 'AIzaSyBBw5MyPbPLFBY6d3kYBQ-swm_XzlFqfyg'
+            apikey = ''
             DicLocation = GetLocation(DicInputs, apikey)
 
             GetMapImage(DicLocation,apikey)
