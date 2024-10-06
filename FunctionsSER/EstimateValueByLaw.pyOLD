@@ -1,0 +1,71 @@
+from sklearn.neighbors      import NearestNeighbors
+from sklearn.impute         import KNNImputer
+from numpy                  import sort, mean, linspace, vstack
+
+import pandas            as pd
+import numpy             as np
+
+def EstimateValueByLaw(DicInputs, DicLocation):
+
+    #reading data from the database
+    # Redaing the input datafor the Apartamentos
+    df_apartamentos = pd.read_csv('Data/2020-12-19_Clean_Data_apartamentos.csv')
+
+    #Separating X and y data
+    X_data = df_apartamentos.drop(columns=['Precio'])
+    y_data = df_apartamentos['Precio']
+
+
+    #Filling in missing values using the KNNImputer
+    imputer = KNNImputer(n_neighbors    = 5)
+    X_data = imputer.fit_transform(X_data)
+
+    df_apartamentos = pd.DataFrame(data = X_data,
+                                        columns = df_apartamentos.drop(columns=['Precio']).columns)
+    df_apartamentos['Precio'] = y_data
+    df_apartamentos['PrecioM2'] = df_apartamentos['Precio']/df_apartamentos['M2 Area Construida']
+
+    #Reading data from the current appartment
+    Alcobas                 =   DicInputs['Alcobas']
+    Banos                   =   DicInputs['Banos']
+    Niveles                 =   DicInputs['Niveles']
+    Administracion          =   DicInputs['Administracion']
+    AreaTerraza             =   DicInputs['AreaTerraza']
+    AnoConstruccion         =   DicInputs['AnoConstruccion']
+    CantidadParqueaderos    =   DicInputs['CantidadParqueaderos']
+    Estrato                 =   DicInputs['Estrato']
+    M2Construidos           =   DicInputs['M2Construidos']
+    Piso                    =   DicInputs['Piso']
+    Predial                 =   DicInputs['Predial']
+
+    Latitud                 =   DicLocation['Latitud']
+    Longitud                =   DicLocation['Longitud']
+
+
+    #note the this is wrong, Currently it is todays data. Anyways, it seems that we are not using it
+    FechaHoy = pd.to_datetime('today') - pd.offsets.MonthBegin(1) - pd.DateOffset(months = 1)
+    AnoDeExtraccion        = FechaHoy.year
+    MesDeExtraccion        = FechaHoy.month
+
+    X_data_single = np.array([[Alcobas, Banos, Niveles, Administracion,
+                    AreaTerraza, AnoConstruccion, CantidadParqueaderos,
+                    Estrato, Latitud, Longitud, M2Construidos, Piso,
+                    Predial, AnoDeExtraccion, MesDeExtraccion]])
+
+
+    #Finding the 20 appartments that are located closer 
+    # to the one that we are treating
+
+    nbrs = NearestNeighbors(n_neighbors=30, algorithm='ball_tree').fit(X_data[:, [8,9]])
+    distances, indices = nbrs.kneighbors(X_data_single[0][8:10].reshape(-1, 2))
+
+    df_apartamentos_neigh = df_apartamentos.iloc[indices[0]]
+
+    min_Precio = sort(df_apartamentos_neigh['PrecioM2'])[0]
+    max_Precio = sort(df_apartamentos_neigh['PrecioM2'])[-1]
+    avg_Precio = mean(df_apartamentos_neigh['PrecioM2'])
+
+
+    # print(min_Precio, max_Precio, avg_Precio)
+
+    return df_apartamentos, df_apartamentos_neigh, avg_Precio

@@ -1,0 +1,119 @@
+,NombrePerito,EmailPerito,Nombre,Apellidos,Email,TipoDeDocumento,NumeroDeDocumento,Celular,TipoDeInmueble,NombreEdificio,Pais,Departamento,Ciudad,Barrio,Estrato,TipoDeSector,TipoDeVia,Numero1,Numero2,Numero3,NumeroApartamento,Alcobas,Niveles,Piso,Banos,BanosSociales,BanosPrivados,BanosDeServicio,Salas,Comedores,Cocinas,AlcobasDeServicio,Estudios,Estares,Balcones,Patios,Terrazas,CuartosUtiles,CantidadParqueaderos,ParqueaderosCubiertos,ParqueaderosDescubiertos,ParqueaderosSencillos,ParqueaderosDobles,PisosEdificio,SotanosEdificio,M2Construidos,AreaTerraza,AnoConstruccion,Administracion,Predial,DetallesApartamento,DetallesEdificio,DetallesSector,ReportNumber
+0,Carlitos Perito,sebastianecheverrir@gmail.com,Sebastian,Restrepo,sebastianecheverrir@gmail.com,CC,3,3,Apartamento,3,Colombia,Antioquia,Medellín,3,3,URBANO,Calle,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3.0,3.0,3,3.0,3.0,,,,1
+0,Carlitos Perito,sebastianecheverrir@gmail.com,Sebastian,Restrepo,sebastianecheverrir@gmail.com,CC,3,4,Apartamento,4,Colombia,Antioquia,Medellín,4,4,URBANO,Calle,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4.0,4.0,4,4.0,4.0,,,,1
+0,Carlitos Perito,sebastianecheverrir@gmail.com,Sebastian,Restrepo,sebastianecheverrir@gmail.com,CC,3,3,Apartamento,3,Colombia,Antioquia,Medellín,3,3,URBANO,Calle,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,222.0,3.0,3,3.0,3.0,1
+0,ADRIANA PATRICIA PUENTES BURITICA,appuentesb@gmail.com,LINA MARIA ,CADAVID VELEZ,linacadavid8@gmail.com,CC,32257807,3013704384,Apartamento,Edificio Torres de Castropol PH,Colombia,Antioquia,Medellín,Castropol,6,URBANO,Carrera,40B,15,73,801,3,1,8,4,1,2,1,1,1,1,1,0,1,1,0,0,1,1,1,0,0,1,9,2,146.79,0.0,1994,531000.0,0.0,1
+0,VANESSA GIRALDO,ASISTENTE@AVALUARVALORES.COM,VANESA ALEJANDRA,ALVAREZ CORREA,angmrami@davivienda.com,CC,1036639099, 3147390294,Apartamento,URBANIZACION ZARZAMORA P.H,Colombia,Antioquia,Envigado,zuñiga ,5,URBANO,Carrera,27,23sur,69,704,2,1,7,3,1,2,0,1,1,1,0,1,0,1,0,0,1,1,1,1,0,1,19,5,79.52,0.0,2017,394300.0,2184000.0,1
+0,vanessa giraldo ,ASISTENTE@AVALUARVALORES.COM,JORGE ANDRES ,CARDENAS ORTIZ,Jorge.cardenaso@icloud.com,CC,80048287,3222542880,Apartamento,CONJ RESID ALTOS DE LOS ALMENDROS PH ,Colombia,Antioquia,Envigado,la cuenca,3,URBANO,Calle,48f sur ,39b ,314,1204,1,1,12,2,1,1,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,16,1,55.51,0.0,2013,182000.0,685000.0,1
+0,Francisco Vallejo,franciscovallejosantiusty@gmail.com,Lorena,Silva,lorenasilmu24@gmail.com,CC,1128283829,3007288952,Apartamento,Zanetti,Colombia,Antioquia,Itagüi,Viviendas del Sur,3,URBANO,Carrera,54C ,13A Sur,25,2626,3,1,26,2,1,1,0,1,1,1,0,0,0,1,0,0,1,1,1,0,1,0,26,0,64.0,0.0,2019,180000.0,0.0,1
+0,JUAN,diarames@gmail.com,luz ,Jaramillo,diarames@gmail.com,CC,43016552,3116098323,Apartamento,Cantabria plaza,Colombia,Antioquia,Medellín,loma de los bernal,5,URBANO,Calle,7,81,40,408,2,1,4,2,1,1,0,1,1,1,0,1,0,1,0,0,1,1,1,0,1,0,16,2,68.81,0.0,2014,282000.0,16.0,1
+0,JUAN ARANGO,diarames@gmail.com,Luz ,Jaramillo,diarames@gmail.com,CC,43016552,3116098323,Apartamento,Porton de Antares,Colombia,Antioquia,Medellín,Robledo Palenque,3,URBANO,Carrera,88A,68,19,1410,2,1,14,1,1,0,0,1,0,1,0,0,0,0,0,0,0,1,1,0,0,0,19,0,40.0,0.0,2017,0.0,0.0,1
+0,VANESSA GIRALDO,ASISTENTE@AVALUARVALORES.COM,Arbey de Jesus ,Villegas Carvajal,sebastian.vergara@davivienda.com,CC,98695639,3206278895,Apartamento,CONJ. RSIAL SENDERO DEL BOSQUE P.H,Colombia,Antioquia,La Estrella,la aldea,4,URBANO,Calle,87sur,55,695,210,3,1,2,2,1,1,0,1,1,1,0,0,0,1,0,0,1,1,1,0,1,0,2,2,75.18,0.0,2015,220000.0,692000.0,1
+0,VANESSA GIRALDO,ASISTENTE@AVALUARVALORES.COM,Juan Diego ,Escobar Pineda,sebastian.vergara@davivienda.com,CC,1128418921,3163164542,Apartamento,URB CIUDAD DEL BOSQUE PH ,Colombia,Antioquia,Sabaneta,LA FLORIDA ,4,URBANO,Calle,61 sur ,39,70,2604,3,1,26,2,1,1,0,1,1,1,0,0,0,1,0,0,1,1,1,0,1,0,26,0,75.24,0.0,2016,256000.0,1380000.0,1
+0,Juan Arango,diarames@gmail.com,MARIANELA,LUZARDO,diarames@gmail.com,CC,71578114,3206894427,Apartamento,OFIX DE LOS MOLINOS,Colombia,Antioquia,Medellín,LOS ALPES,5,URBANO,Carrera,83B,27A,05,503,1,1,5,1,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,6,0,28.3,0.0,2018,65000.0,0.0,1
+0,sebastian,sebastianecheverrir@gmail.com,Sebastian,Restrepo,sebastianecheverrir@gmail.com,CC,3,3,Apartamento,3,Colombia,Antioquia,Sabaneta,Sabaneta,4,URBANO,Calle,78E sur,47,80,1604,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,76.0,3.0,3,3.0,3.0,1
+0,carlod,sebastianecheverrir@gmail.com,s,s,sebastianecheverrir@gmail.com,CC,3,3,Apartamento,3,Colombia,Antioquia,Medellín,3,3,URBANO,Calle,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3.0,3.0,3,3.0,3.0,1
+0,carlod,sebastianecheverrir@gmail.com,s,3,sebastianecheverrir@gmail.com,CC,3,3,Apartamento,3,Colombia,Antioquia,Medellín,3,3,URBANO,Calle,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3.0,3.0,3,3.0,3.0,1,"""Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."""
+0,carlod,sebastianecheverrir@gmail.com,s,3,sebastianecheverrir@gmail.com,CC,3,3,Apartamento,3,Colombia,Antioquia,Medellín,3,3,URBANO,Calle,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3.0,3.0,3,3.0,3.0,1,"""Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.""",1,2,3,4,5,6,7
+0,carlod,sebastianecheverrir@gmail.com,s,3,sebastianecheverrir@gmail.com,CC,3,3,Apartamento,3,Colombia,Antioquia,Medellín,3,3,URBANO,Calle,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3.0,3.0,3,3.0,3.0,1,1,"""Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.""",2,3,4,5,6,7,8
+0,Carlitos Perito,sebastianecheverrir@gmail.com,Apartamento,Colombia,Antioquia,Medellín,Calle,3,3,3,3.0
+0,Nicolas,nicolasmondragon@gmail.com,Apartamento,Colombia,Antioquia,Medellín,Calle,6,32,61,67.0
+0,aurlin cuesta,aurlin1@hotmail.com,Apartamento,Colombia,Antioquia,Medellín,Carrera,15b,34d,85,80.0
+0,aurlin cuesta,aurlin1@hotmail.com,aurlin,cuesta serna,aurlin1@hotmail.com,CC,8103088,3216279691,Apartamento,torres de valvuena,Colombia,Antioquia,Medellín,Belen,4,URBANO,Calle,8,84f,190,1411,3,20,14,2,0,1,0,1,1,1,0,0,1,1,0,0,0,1,0,0,1,0,20,0,80.0,3.0,2010,200000.0,700000.0,1,colegio Manyanet cerca,bien ubicado,Unidad residencial,no sabe,cercano al cerro de las tres cruces,buenos acabado,muros vaciados y mamposteria,ninguna,buenos acabados
+0,Carlitos Perito,sebastianecheverrir@gmail.com,Apartamento,Colombia,Antioquia,Medellín,Calle,3,3,3,3.0
+0,ESTEBAN GONZALEZ,esteban@avaluarvalores.com,Apartamento,Colombia,Antioquia,Medellín,Carrera,18,2,19,150.0
+0,carlod,sebastianecheverrir@gmail.com,33333,3,sebastianecheverrir@gmail.com,CC,33,3,Apartamento,3,Colombia,Antioquia,Medellín,3,3,URBANO,Calle,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3.0,3.0,3,3.0,3.0,1,1,1,,,,,,,
+0,JUAN ARANGO,diarames@gmail.com,Apartamento,Colombia,Antioquia,Medellín,Calle,7,39,210,105.0
+0,JUAN ARANGO,diarames@gmail.com,Adriana,Jaramillo,diarames@gmail.com,CC,43016552,3116098323,Apartamento,conjunto residencial Asturias,Colombia,Antioquia,Medellín,poblado,6,URBANO,Calle,7,39,210,803,3,1,8,2,1,1,3,1,1,1,0,1,0,1,0,0,1,1,1,0,1,0,11,2,105.0,0.0,1993,0.0,0.0,1,,,,,,,,,
+0,Juan Diego Arango,diarames@gmail.com,Apartamento,Colombia,Antioquia,Medellín,Carrera,32A,31,113,39.5
+0,Carlitos Perito,sebastianecheverrir@gmail.com,Apartamento,Colombia,Antioquia,Medellín,Calle,3,3,3,3.0
+0,Carlitos Perito,sebastianecheverrir@gmail.com,Apartamento,Colombia,Antioquia,Medellín,Calle,4,4,4,4.0
+0,Carlitos Perito,sebastianecheverrir@gmail.com,Apartamento,Colombia,Antioquia,Medellín,Calle,4,4,4,4.0
+0,Carlitos Perito,sebastianecheverrir@gmail.com,Apartamento,Colombia,Antioquia,Medellín,Calle,9,9,9,9.0
+0,Carlitos Perito,sebastianecheverrir@gmail.com,Apartamento,Colombia,Antioquia,Medellín,Calle,1,1,1,1.0
+0,Carlitos Perito,sebastianecheverrir@gmail.com,Apartamento,Colombia,Antioquia,Medellín,Calle,9,9,9,99.0
+0,Carlitos Perito,sebastianecheverrir@gmail.com,Apartamento,Colombia,Antioquia,Medellín,Calle,4,4,4,4.0
+0,Carlitos Perito,sebastianecheverrir@gmail.com,Apartamento,Colombia,Antioquia,Medellín,Calle,3,3,3,3.0
+0,Carlitos Perito,sebastianecheverrir@gmail.com,Apartamento,Colombia,Antioquia,Medellín,Calle,3,3,3,3.0
+0,carlod,sebastianecheverrir@gmail.com,Apartamento,Colombia,Antioquia,Medellín,Carrera,15b,34d,85,80.0
+0,carlod,sebastianecheverrir@gmail.com,Apartamento,Colombia,Antioquia,Medellín,Calle,32a,31,113,39.0
+0,carlod,sebastianecheverrir@gmail.com,Apartamento,Colombia,Antioquia,Medellín,Calle,32a,31,113,39.0
+0,carlod,sebastianecheverrir@gmail.com,Apartamento,Colombia,Antioquia,Medellín,Calle,5,5,5,5.0
+0,carlod,sebastianecheverrir@gmail.com,Apartamento,Colombia,Antioquia,Medellín,Calle,5,5,5,5.0
+0,carlod,sebastianecheverrir@gmail.com,Apartamento,Colombia,Antioquia,Medellín,Calle,32a,31,113,39.0
+0,Francisco Vallejo,franciscovallejosantiusty@gmail.com,Apartamento,Colombia,Antioquia,Medellín,Calle,38 B Sur,26,01,110.0
+0,Nicolas,nicolasmondragon@gmail.com,Apartamento,Colombia,Antioquia,Medellín,Calle,6,32,61,65.0
+0,Nicolas,nicolasmondragon@gmail.com,Nicolás,Mondragon,nicolasmondragon@gmail.com,CC,98773225,3106993096,Apartamento,Altos de Provenza,Colombia,Antioquia,Medellín,Poblado,6,URBANO,Calle,6,32,61,501,1,1,5,2,1,1,0,1,1,1,0,1,0,2,0,0,1,1,1,0,1,0,16,2,65.0,10.0,2012,350000.0,5000000.0,1,,,,,,,,,
+0,Juan Arango,diarames@gmail.com,Luz Adriana,Jaramillo,diarames@gmail.com,CC,43016552,3116098323,Apartamento,URB.TERRAVERDE P.H,Colombia,Antioquia,Medellín,castropol,6,URBANO,Calle,CALLE 17,40B ,320,1408,3,1,17,2,1,1,0,1,1,1,0,0,0,1,0,0,0,1,1,0,1,0,17,3,76.09,0.0,2006,250000.0,0.0,1,,,,,,,,,
+0,JUAN ARANGO,diarames@gmail.com,Luz Adriana,Jaramillo,diarames@gmail.com,CC,43016552,3116098323,Apartamento,Tricentenario,Colombia,Antioquia,Medellín,Tricentenario,3,URBANO,Carrera,63A,94a,11,6304,3,1,3,1,1,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,5,0,69.0,0.0,1978,100000.0,0.0,1,,,,,,,,,
+0,JUAN ARANGO,diarames@gmail.com,Luz Adriana,Jaramillo,diarames@gmail.com,CC,430166552,3116098329,Apartamento,UNIDAD RES. INFINITO P.H,Colombia,Antioquia,Medellín,Calasanz,4,URBANO,Calle,96c,50A,220,309,3,1,3,2,1,1,0,1,1,1,0,1,0,1,0,0,1,1,1,1,1,0,19,3,65.63,0.0,2017,100000.0,0.0,1,,,,,,,,,
+0,Esteban,esteban@avaluarvalores.com,Apartamento,Colombia,Antioquia,Medellín,Calle,9A,73,95,89.0
+0,aurlin cuesta,aurlin1@hotmail.com,aurlin,cuesta serna,aurlin1@hotmail.com,CC,8103088,3216279691,Apartamento,Edificio la Calera,Colombia,Antioquia,Itagüi,ditaires,4,URBANO,Carrera,63,33,60,1411,3,1,14,5,1,2,2,1,1,1,1,1,1,1,1,1,1,3,1,2,3,3,14,2,76.0,4.0,2018,200000.0,800000.0,1,usos,probando ,lote,l}inf,,,,,
+0,esteban gonzalez,esteban@avaluarvalores.com,Apartamento,Colombia,Antioquia,Medellín,Calle,3,43b,48,147.0
+0,carlod,sebastianecheverrir@gmail.com,Apartamento,Colombia,Antioquia,Medellín,Calle,3,47C,80,76.0
+0,carlod,sebastianecheverrir@gmail.com,Apartamento,Colombia,Antioquia,Medellín,Carrera,78E sur,47C,80,200.0
+0,carlod,sebastianecheverrir@gmail.com,Apartamento,Colombia,Antioquia,Medellín,Carrera,3,47C,80,200.0
+0,Nicolas Mondragon,nicolasmondragon@gmail.com,Apartamento,Colombia,Antioquia,Medellín,Calle,6,32,61,70.0
+0,carlod,sebastianecheverrir@gmail.com,Apartamento,Colombia,Antioquia,Medellín,Calle,78E sur,47C,80,76.0
+0,carlo,sebastianecheverrir@gmail.com,Apartamento,Colombia,Antioquia,Medellín,Calle,78E sur,47C,80,76.0
+0,Nicolas,nicolasmondragon@gmail.com,Apartamento,Colombia,Antioquia,Medellín,Carrera,45,7,64,115.0
+0,carlo,sebastianecheverrir@gmail.com,Apartamento,Colombia,Antioquia,Medellín,Calle,78E sur,47C,80,76.0
+0,Diego,diegoe@epm.net.co,Apartamento,Colombia,Antioquia,Medellín,Carrera,16,12 sur,65,298.0
+0,carlos montoya arango,ventas.aporta1@gmail.com,Apartamento,Colombia,Antioquia,Medellín,Calle,13 sur,37 B,04,85.0
+0,Sebastian ,sebastianecheverrir@gmail.com,Apartamento,Colombia,Antioquia,Medellín,Calle,25b,34,54,78.0
+0,Nicolas Mondragon,nicolasmondragon@gmail.com,Nicolas,Mondragon,nicolasmondragon@gmail.com,CC,112811234,123456,Apartamento,URBANIZACION SALENTO,Colombia,Antioquia,Medellín,BALSOS NO. 2,6,URBANO,Calle,7 SUR,37A,25,1704,2,1,17,2,1,1,0,1,1,1,0,0,0,1,0,0,1,1,1,0,0,1,21,3,86.0,0.0,2008,360000.0,3200000.0,1,BUENAS,MUY BUENO,ZONA CON POCOS LOTES DISPONIBLES,BUENA,BUENOS,SUPERIORES AL PROMEDIO,BUENA SIN PROBLEMAS,NADA RARO,BUEN EDIFICIO
+0,Sebastian ,sebastianecheverrir@gmail.com,Carlos,Perito,sebastianecheverrir@gmail.com,CC,6,8,Apartamento,Edificio la Calera,Colombia,Antioquia,Medellín,7,2,URBANO,Calle,3,34,54,1987,2,2,2,5,5,5,5,8,8,8,5,8,8,8,5,5,5,5,5,8,5,1,8,5,88.0,8.0,8,8.0,8.0,1,,,,,,,,,
+0,carlod,sebastianecheverrir@gmail.com,e,e,sebastianecheverrir@gmail.com,CC,3,3,Apartamento,3,Colombia,Antioquia,Medellín,3,3,URBANO,Calle,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3.0,3.0,3,3.0,3.0,1,,,,,,,,,
+0,Felipe,sebastianecheverrir@gmail.com,Apartamento,Colombia,Antioquia,Sabaneta,Calle,77 sur,47c,121,76.0
+0,MAURICIO VELASQUEZ ESCOBAR,emporiopropiedadraiz@gmail.com,Apartamento,Colombia,Antioquia,Medellín,Carrera,34 A,66G,17,81.0
+0,CONSUELO DUQUE,duqueinversionespr@gmail.com,Apartamento,Colombia,Antioquia,Medellín,Carrera,45,15,sur 75,94.0
+0,Constantino Carvajal,ccarvajal@arrendamientosumbral.co,Apartamento,Colombia,Antioquia,Medellín,Calle,16,20,65,312.0
+0,Mauricio Ranirez,r2avaluos@gamil.com,Apartamento,Colombia,Antioquia,Medellín,Calle,39D,47sur,10,100.0
+0,Juan Camilo Ramirez Buitrago,diravaluos@derechoyvaloracion.com,Apartamento,Colombia,Antioquia,Medellín,Carrera,65C,32B,1,88.0
+0,Juan Camilo Ramirez Buitrago,diravaluos@derechoyvaloracion.com,Apartamento,Colombia,Antioquia,Medellín,Calle,33,82A,49,119.0
+0,David Mafla,avaluadormafla@gmail.com,Apartamento,Colombia,Antioquia,Itagüi,Carrera,61,33,51,66.0
+0,SEBASTIAN,sebasmbv@gmail.com,Apartamento,Colombia,Antioquia,Envigado,Calle,22 sur,40,63,112.0
+0,MARISOL PINEDA,marisolpineda@trazado.com.co,Apartamento,Colombia,Antioquia,Medellín,Calle,11,30A,170,283.0
+0,Luis Mauricio Gonzalez,avaluadores@une.net.co,Apartamento,Colombia,Antioquia,Medellín,Calle,75,50 A sur,105,75.0
+0,David Mafla,avaluadormafla@gmail.com,Apartamento,Colombia,Antioquia,Medellín,Carrera,24 DA,10E,205,77.0
+0,Luis Mauricio Gonzalez,avaluadores@une.net.co,Apartamento,Colombia,Antioquia,Caldas,Calle,107 SUR,50,99,46.0
+0,Luis Mauricio Gonzalez,avaluadores@une.net.co,Apartamento,Colombia,Antioquia,Medellín,Carrera,28,107,131,60.0
+0,Luis Mauricio Gonzalez ,avaluadores@une.net.co,Apartamento,Colombia,Antioquia,Medellín,Carrera,89,92 C,32,39.0
+0,sebas,sebastianecheverrir@gmail.com,Apartamento,Colombia,Antioquia,Medellín,Calle,78E sur,47C,80,76.0
+0,sebas,sebastianecheverrir@gmail.com,Apartamento,Colombia,Antioquia,Medellín,Calle,78E sur,47C,80,76.0
+0,VANESSA GIRALDO,ASISTENTE@AVALUARVALORES.COM,Apartamento,Colombia,Antioquia,Sabaneta,Carrera,43A,50 SUR ,205,58.81
+0,LUIS MAURICIO GONZALEZ,avaluadores@une.net.co,Apartamento,Colombia,Antioquia,Medellín,Carrera,29E,11 SUR ,110,119.14
+0,MAURICIO VELASQUEZ ESCOBAR,emporiopropiedadraiz@gmail.com,Apartamento,Colombia,Antioquia,Medellín,Calle,20a sur,22 a,67,161.0
+0,JULLY PAULINA MANRIQUE ARANGO,ingeniera@avaluarvalores.com,Apartamento,Colombia,Antioquia,Medellín,Carrera,30,10,159,90.0
+0,JULLY PAULINA MANRIQUE ARANGO,ingeniera@avaluarvalores.com,Apartamento,Colombia,Antioquia,Medellín,Carrera,30,10,159,90.0
+0,Mauricio velasquez,emporioprpiedadraiz@gmail.com,Apartamento,Colombia,Antioquia,Itagüi,Calle,85,56,53,57.0
+0,Mauricio Velásquez escobar ,emporiopropiedadraiz@gmail.com,Apartamento,Colombia,Antioquia,Itagüi,Calle,85,56,53,57.0
+0,Juan Camilo Ramirez Buitrago,diravaluos@derechoyvaloracion.com,Apartamento,Colombia,Antioquia,Itagüi,Carrera,51,78,60,69.0
+0,MAURICIO VELASQUEZ ESCOBAR,emporiopropiedadraiz@gmail.com,Apartamento,Colombia,Antioquia,Medellín,Calle,11,30A,12,227.0
+0,MAURICIO VELASQUEZ ESCOBAR,emporiopropiedadraiz@gmail.com,Apartamento,Colombia,Antioquia,Medellín,Calle,11,30A,12,227.0
+0,Jorge gomez,outletinmobiliario@hotmail.com,Apartamento,Colombia,Antioquia,Medellín,Calle,5 F ,30,101,420.0
+0,Nicolas Mondragon,nicolasmondragon@gmail.com,Apartamento,Colombia,Antioquia,Medellín,Calle,23 sur,28,80,182.0
+0,Luis Mauricio Gonzalez,avaluadores@une.net.co,Apartamento,Colombia,Antioquia,Medellín,Diagonal,74 C,32 EE,49,37.06
+0,Luis Mauricio Gonzalez Acevedo,avaluadores@une.net.co,Apartamento,Colombia,Antioquia,Medellín,Carrera,89 ,92 C ,32,39.4
+0,LUIS MAURICIO GONZALEZ,avaluadores@une.net.co,Apartamento,Colombia,Antioquia,Medellín,Carrera,68,70 sur,50,44.86
+0,LUIS MAURICIO GONZALEZ,avaluadores@une.net.co,Apartamento,Colombia,Antioquia,Itagüi,Calle,29A,54B,23,84.0
+0,LUIS MAURICIO GONZALEZ,avaluadores@une.net.co,Apartamento,Colombia,Antioquia,Itagüi,Calle,29a,54b,23,84.0
+0,Luis Mauricio Gonzalez Acevedo,avaluadores@une.net.co,Apartamento,Colombia,Antioquia,Medellín,Carrera,20,35,586,96.5
+0,Luis Mauricio Gonzalez Acevedo,avaluadores@une.net.co,Apartamento,Colombia,Antioquia,Medellín,Carrera,28,107,131,40.2
+0,LUIS MAURICIO GONZALEZ,avaluadores@une.net.co,Apartamento,Colombia,Antioquia,Medellín,Diagonal,74b,32b,105,56.0
+0,Luis Mauricio Gonzalez Acevedo,avaluadores@une.net.co,Apartamento,Colombia,Antioquia,Medellín,Carrera,82,49 F ,34,80.3
+0,Luis Mauricio Gonzalez Acevedo,avaluadores@une.net.co,Apartamento,Colombia,Antioquia,Medellín,Diagonal,74 B,32 B ,105,96.32
+0,Luis Mauricio Gonzalez Acevedo,avaluadores@une.net.co,Apartamento,Colombia,Antioquia,Medellín,Calle,50,69,116,36.52
+0,Luis Mauricio Gonzalez Acevedo,avaluadores@une.net.co,Apartamento,Colombia,Antioquia,Medellín,Carrera,60 A,41 C,72,72.0
+0,Luis Mauricio Gonzalez Acevedo,avaluadores@une.net.co,Apartamento,Colombia,Antioquia,Medellín,Calle,5,45,121,83.0
+0,Monica Diaz Propiedad Raiz,gerencia@monica-diaz.co,Apartamento,Colombia,Antioquia,Medellín,Calle,4,18,55,242.4
+0,Monica Diaz Propiedad Raiz,gerencia@monica-diaz.co,Apartamento,Colombia,Antioquia,Medellín,Calle,26,39,70,72.0
+0,Monica Diaz Propiedad Raiz,gerencia@monica-diaz.co,Apartamento,Colombia,Antioquia,Envigado,Calle,29 Sur ,46a,51,100.0
+0,Monica Diaz Propiedad Raiz,gerencia@monica-diaz.co,Apartamento,Colombia,Antioquia,Medellín,Calle,16C Sur ,42,97,272.0
+0,MAURICIO VELASQUEZ ESCOBAR,emporiopropiedadraiz@gmail.com,Apartamento,Colombia,Antioquia,Medellín,Calle,16A,43B,165,91.0
+0,MAURICIO VELASQUEZ ESCOBAR,emporiopropiedadraiz@gmail.com,Apartamento,Colombia,Antioquia,Medellín,Calle,16A,43B,165,92.0
+0,LUIS MAURICIO GONZALEZ,avaluadores@une.net.co,Apartamento,Colombia,Antioquia,Medellín,Calle,6 B SUR,37,51,105.0
+0,Juan Camilo Ramirez Buitrago,diravaluos@derechoyvaloracion.com,Apartamento,Colombia,Antioquia,Bello,Carrera,75,20B,31,108.0
+0,Carlos Mario Palacio Posada,pp.carlosmario@gmail.com,Apartamento,Colombia,Antioquia,Medellín,Calle,18 D,41,85,188.0
+0,Sebas Test,contacto@aldea.ai,Apartamento,Colombia,Antioquia,Medellín,Calle,78,45,32,23.0
+0,Sebas Test,contacto@aldea.ai,Apartamento,Colombia,Antioquia,Medellín,Calle,78,45,32,23.0

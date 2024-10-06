@@ -1,0 +1,149 @@
+#Nombre Apellidos TipoDeInmueble 
+0,sebast test,tereret,contacto@aldea.ai,3,3,3,3.0,3.0,3,3,3,3.0,3,3.0,Calle,32,32,32,Sabaneta,Colombia,1,188036383.4584622,62678794.48615407,958985.5556381573
+0,sebast test,tereret,contacto@aldea.ai,3,3,3,3.0,3.0,3,3,3,3.0,3,3.0,Calle,3,3,3,Sabaneta,Colombia,1,182860534.09487247,60953511.36495749,932588.7238838497
+0,LILIANA MARIA,VELEZ ESTRADA,lilianavelez@lospredios.com,2,2,1,371000.0,0.0,1990,1,6,70.0,3,1400000.0,Calle,1,73,20,Medellín,Colombia,1,376823370.0961328,5383191.0013733255,2449351.9056248637
+0,mauricio ,velasquez escobar,emporiopropiedadraiz@gmail.com,3,2,1,320000.0,0.0,2016,1,3,64.0,14,699279.0,Calle,83,53,19,Itagüi,Colombia,1,363215823.00995463,5675247.234530541,1852400.6973507688
+0,LILIANA MARIA,VELEZ ESTRADA,lilianavelez@lospredios.com,2,2,1,371000.0,0.0,1995,1,6,72.0,3,1800000.0,Circular,3,70,75,Medellín,Colombia,1,398630018.50203776,5536528.034750525,2591095.1202632454
+0,Liliana Maria,Velez Estrada,lilianavelez@lospredios.com,3,2,1,450000.0,0.0,2005,1,4,85.0,3,1400000.0,Calle,32D ,65C,15,Medellín,Colombia,1,396592071.6184323,4665789.077863909,2022619.5652540047
+0,Juan Pablo ,Causado ,proyectos.innovacion@lonja.org.co,4,3,2,0.0,4.0,2010,0,3,120.0,5,800000.0,Calle,25,79,184,Medellín,Colombia,1,327460090.4223955,2728834.086853296,1670046.4611542171
+0,Juan Pablo ,Causado ,proyectos.innovacion@lonja.org.co,1,2,1,180000.0,0.0,2021,2,6,50.4,3,1700000.0,Carrera,31,19,445,Medellín,Colombia,1,340899021.72006035,6763869.478572627,2215843.6411803924
+0,mauricio ,velasquez escobar,emporiopropiedadraiz@gmail.com,4,4,1,800000.0,88.0,1997,1,5,137.0,2,985010.0,Calle,26 SUR,47A,50,Envigado,Colombia,1,529092645.2133702,3861990.1110464977,3439102.1938869064
+0,Aide Maria ,Londoño Ceballos,aidemaloce@hotmail.com,3,3,1,702000.0,0.0,20,2,5,150.0,15,4400000.0,Calle,20 A SUR,22,84,Medellín,Colombia,1,648305978.6248307,4322039.857498871,4213988.8610614
+0,Aide Maria ,Londoño Ceballos,aidemaloce@hotmail.com,3,2,1,368755.0,0.0,7,1,5,80.0,7,3029912.0,Calle,17,27A,109,Medellín,Colombia,1,411261916.7877035,5140773.959846294,2673202.459120073
+0,Aide Maria ,Londoño Ceballos,aidemaloce@hotmail.com,4,3,1,350000.0,0.0,2010,2,5,100.0,6,3500000.0,Carrera,66A,36,15,Medellín,Colombia,1,516078921.05007243,5160789.210500725,3354512.986825471
+0,mauricio ,velasquez escobar,emporiopropiedadraiz@gmail.com,2,2,1,380000.0,0.0,2016,1,6,72.0,5,2058762.0,Calle,24,39A,408,Medellín,Colombia,1,478137391.90374017,6640797.109774169,3107893.047374311
+0,Paola Lucía,Rueda Daza,paoladaza9@hotmail.com,2,3,1,1358000.0,0.0,1990,3,6,237.0,13,65840000.0,Carrera,37 B,1 sur,41,Medellín,Colombia,1,1041794341.3196595,4395756.714428943,6771663.218577786
+0,Paola Lucía,Rueda Daza,paoladaza9@hotmail.com,3,4,1,1358000.0,0.0,1995,3,6,237.0,13,6584000.0,Carrera,37 B,1sur,21,Medellín,Colombia,1,1132290144.694516,4777595.547234245,7359885.940514353
+0,Aide Maria ,Londoño Ceballos,aidemaloce@hotmail.com,3,4,1,1094800.0,0.0,1993,2,6,190.0,3,4276418.0,Calle,7 D ,43C,95,Medellín,Colombia,1,865214486.7689127,4553760.456678487,5623894.163997932
+0,mauricio ,velasquez escobar,emporiopropiedadraiz@gmail.com,3,2,1,800000.0,0.0,1993,2,5,138.0,3,2520000.0,Transversal,37,72,87,Medellín,Colombia,1,649367104.3871223,4705558.727442915,4220886.178516295
+0,mauricio ,velasquez escobar,emporiopropiedadraiz@gmail.com,4,3,1,707809.0,0.0,1983,2,6,174.0,3,5958008.0,Calle,5A SUR,32A,31,Medellín,Colombia,1,703801995.8864484,4044839.0568186687,4574712.973261915
+0,Maria Clara,Villa,Mariaclaravillaescudero@gmail.com,2,3,2,548000.0,0.0,2018,3,6,130.0,27,7000000.0,Calle,17,27 A,109,Medellín,Colombia,1,1110162465.0184252,8539711.269372502,7216056.022619765
+0,Maria claudia,Villa,Mariaclaravillaescudero@gmail.com,3,4,2,564000.0,0.0,2018,3,6,130.0,27,4500000.0,Calle,17,27 A,109,Medellín,Colombia,1,1118995085.6674888,8607654.505134529,7273468.056838678
+0,mauricio ,velasquez escobar,emporiopropiedadraiz@gmail.com,3,2,1,412600.0,0.0,2008,2,4,121.0,17,2514994.0,Calle,15,81B,115,Medellín,Colombia,1,578979975.3260274,4784958.473768821,2952797.8741627396
+0,mauricio ,velasquez escobar,emporiopropiedadraiz@gmail.com,3,2,1,722000.0,20.0,2000,2,6,94.0,2,2100000.0,Calle,3 sur,38,41,Medellín,Colombia,1,487258303.7038281,5183598.975572639,3167178.974074883
+0,mauricio ,velasquez escobar,emporiopropiedadraiz@gmail.com,4,3,1,0.0,0.0,1976,0,4,157.0,1,476072.0,Carrera,90,44 C ,38,Medellín,Colombia,1,347337926.2717718,2212343.4794380367,1771423.423986036
+0,Aide Maria ,Londoño Ceballos,aidemaloce@hotmail.com,2,2,1,20000.0,0.0,2002,0,4,69.0,1,1200000.0,Carrera,79A,45A,40,Medellín,Colombia,1,271628295.89456105,3936641.969486392,1385304.3090622614
+0,carlos,montoya,ventas.aporta1@gmail.com,3,3,1,473000.0,0.0,1980,0,5,120.0,3,1800000.0,Calle,48,64b,18,Medellín,Colombia,1,455298374.20784503,3794153.1183987088,2959439.4323509927
+0,carlos,montoya,ventas.aporta1@gmail.com,3,2,1,473000.0,0.0,1983,0,5,120.0,3,1992000.0,Calle,48,64b,18,Medellín,Colombia,1,456219521.8159813,3801829.348466511,2965426.8918038784
+0,Aide Maria ,Londoño Ceballos,aidemaloce@hotmail.com,2,2,1,310000.0,0.0,2012,1,4,86.0,2,1800000.0,Calle,70sur,38,90,Sabaneta,Colombia,1,409406132.2247001,4760536.4212174425,2087971.2743459705
+0,Carlos mario,Palacio ,pp.carlosmario@gmail.com,3,2,1,512.0,95.82,2013,2,5,87.5,2,2.861,Calle,34,64,41,Medellín,Colombia,1,332410696.67182773,3798979.390535174,2160669.5283668805
+0,Carlos Mario ,Palacio ,pp.carlosmario@gmail.com,3,3,1,420000.0,0.0,2013,2,6,120.0,7,8000000.0,Diagonal,29D,9sur,110,Medellín,Colombia,1,724353770.5998614,6036281.421665511,4708299.508899099
+0,Aide Maria ,Londoño Ceballos,aidemaloce@hotmail.com,3,2,1,143000.0,0.0,2000,1,5,80.0,5,600000.0,Calle,32 D ,65E,16,Medellín,Colombia,1,380257459.2629446,4753218.240786808,2471673.48520914
+0,Carlos mario,Palacio posada,pp.carlosmario@gmail.com,3,3,1,508000.0,0.0,1988,2,5,127.0,7,752000.0,Carrera,35,1,31,Medellín,Colombia,1,570245474.7911636,4490121.848749319,3706595.5861425633
+0,Carlos mario,Palacio posada,pp.carlosmario@gmail.com,4,3,1,508000.0,0.0,1988,2,1,127.0,7,752000.0,Calle,35,1,31,Medellín,Colombia,1,488364279.86449957,3845388.0304291304,1953457.1194579983
+0,carlos,montoya,ventas.aporta1@gmail.com,3,2,1,40000.0,21.0,1999,1,2,80.0,4,1000000.0,Calle,79,83,09,Medellín,Colombia,1,257523671.66559145,3219045.895819893,1030094.6866623658
+0,Carlos mario,Palacio posada,pp.carlosmario@gmail.com,4,3,2,800000.0,0.0,1993,2,6,154.0,7,7000000.0,Calle,20Bsur,38,36,Medellín,Colombia,1,780383449.6063067,5067424.99744355,5072492.422440994
+0,mauricio ,velasquez escobar,emporiopropiedadraiz@gmail.com,4,5,1,1646000.0,148.0,1989,3,6,407.0,1,9700000.0,Calle,4 SUR,38,121,Medellín,Colombia,1,1327177479.0298455,3260878.3268546574,8626653.613693995
+0,mauricio ,velasquez escobar,emporiopropiedadraiz@gmail.com,3,3,1,400000.0,0.0,1993,2,6,110.0,3,2746000.0,Carrera,35,16 a sur,115,Medellín,Colombia,1,495772684.61161363,4507024.405560124,3222522.4499754887
+0,Carlos mario ,Palacio posada,pp.carlosmario@gmail.com,3,2,1,366000.0,0.0,1993,1,5,87.0,4,1600000.0,Calle,23,41,130,Medellín,Colombia,1,384153577.8595857,4415558.366202135,2496998.256087307
+0,Aide Maria ,Londoño Ceballos,aidemaloce@hotmail.com,3,2,1,650000.0,0.0,28,1,6,135.0,2,2300000.0,Carrera,43 A ,12 A SUR ,190,Medellín,Colombia,1,514102920.93741286,3808169.7847215766,3341668.986093184
+0,mauricio ,velasquez escobar,emporiopropiedadraiz@gmail.com,3,3,2,750000.0,20.0,1985,2,5,138.0,4,1192800.0,Calle,36 D SUR,27 C,40,Envigado,Colombia,1,585630065.5071118,4243696.1268631285,3806595.425796227
+0,mauricio ,velasquez escobar,emporiopropiedadraiz@gmail.com,4,4,1,900000.0,0.0,1987,3,6,180.0,6,3999159.0,Carrera,38,11,19,Medellín,Colombia,1,802278411.780323,4457102.287668461,5214809.6765721
+0,carlos,montoya,ventas.aporta1@gmail.com,3,2,1,35000.0,21.0,1999,1,2,80.0,5,650000.0,Calle,79,83,09,Medellín,Colombia,1,246277875.41793224,3078473.442724153,985111.5016717291
+0,carlos,montoya,ventas.aporta1@gmail.com,3,2,1,35000.0,0.0,1999,1,2,80.0,5,650000.0,Calle,79,83,09,Medellín,Colombia,1,243657410.59191784,3045717.632398973,974629.6423676715
+0,mauricio,velasquez  escobar,emporiopropiedadraiz@gmail.com,3,2,1,0.0,0.0,1985,0,4,116.0,2,253755.0,Carrera,89 A,44 B,92,Medellín,Colombia,1,330518362.9202136,2849296.232070807,1685643.6508930891
+0,carlos,montoya,ventas.aporta1@gmail.com,3,2,1,35000.0,0.0,1999,1,2,101.0,5,650000.0,Calle,79,83,09,Medellín,Colombia,1,266329637.99404827,2636927.108851963,1065318.5519761932
+0,mauricio,velasquez  escobar,emporiopropiedadraiz@gmail.com,3,2,2,0.0,0.0,2004,0,3,65.0,2,988762.0,Carrera,70,80,162,Sabaneta,Colombia,1,239838759.69291538,3689827.0721986983,1223177.6744338686
+0,Aide Maria ,Londoño Ceballos,aidemaloce@hotmail.com,3,2,1,663000.0,12.0,1985,1,5,110.0,1,3200000.0,Carrera,26 A,10,23,Medellín,Colombia,1,474962619.79178286,4317841.998107117,3087257.028646589
+0,mauricio,velasquez  escobar,emporiopropiedadraiz@gmail.com,2,2,1,399000.0,0.0,2009,2,5,66.0,4,1540000.0,Carrera,27 b,27d sur,81,Sabaneta,Colombia,1,359577720.34282017,5448147.277921517,2337255.1822283315
+0,mauricio,velasquez  escobar,emporiopropiedadraiz@gmail.com,2,2,1,399000.0,0.0,2009,2,5,66.0,4,1540000.0,Carrera,27 B,27 D Sur,81,Envigado,Colombia,1,365792970.3863681,5542317.733126789,2377654.307511393
+0,mauricio,velasquez  escobar,emporiopropiedadraiz@gmail.com,3,2,1,510000.0,0.0,2005,1,6,110.0,3,1402440.0,Calle,1,45,120,Medellín,Colombia,1,519046498.17057776,4718604.528823434,3373802.2381087556
+0,Carlos mario ,Palacio  posada,pp.carlosmario@gmail.com,3,2,1,405000.0,104.0,2007,2,5,106.0,4,2600000.0,Carrera,42 B,25 A sur,41,Envigado,Colombia,1,591592007.5044352,5581056.674570143,3845348.048778829
+0,Carlos mario ,Palacio posada,pp.carlosmario@gmail.com,3,3,1,405000.0,0.0,2007,2,5,104.0,4,2600000.0,Carrera,42B,25A sur,41,Envigado,Colombia,1,530794364.4815077,5103791.966168343,3450163.3691298002
+0,Carlos  mario ,Palacio posada ,pp.carlosmario@gmail.com,2,3,1,895000.0,0.0,2007,2,6,107.0,5,2900000.0,Carrera,31 A,11,126,Medellín,Colombia,1,702067629.7575848,6561379.7173606055,4563439.593424302
+0,Carlos Mario ,Palacio  Posada ,pp.carlosmario@gmail.com,4,4,1,890000.0,0.0,2012,2,6,147.0,12,3400000.0,Calle,32 C Sur,45B,73,Envigado,Colombia,1,912778519.5190296,6209377.683802922,5933060.3768736925
+0,mauricio,velasquez  escobar,emporiopropiedadraiz@gmail.com,4,4,1,1500000.0,0.0,2001,3,6,347.0,9,8000000.0,Carrera,37,5 SUR,17,Medellín,Colombia,1,1676428802.5916297,4831206.923895187,10896787.216845594
+0,ESTEBAN ,GONZALEZ,esteban@avaluarvalores.com,2,2,1,35000.0,0.0,1993,1,5,60.0,3,1800000.0,Calle,26b,69b,55,Medellín,Colombia,1,255160506.9460726,4252675.115767877,1658543.295149472
+0,mauricio,velasquez  escobar,emporiopropiedadraiz@gmail.com,2,2,2,309000.0,0.0,2021,1,4,90.0,27,1757000.0,Carrera,35 ,65 SUR,135,Sabaneta,Colombia,1,518085317.92441523,5756503.532493503,2642235.121414518
+0,mauricio,velasquez  escobar,emporiopropiedadraiz@gmail.com,3,4,2,0.0,18.0,1973,2,5,343.0,1,3253921.0,Carrera,80 A,28,211,Medellín,Colombia,1,659862207.3510695,1923796.5228894153,4289104.347781952
+0,mauricio,velasquez  escobar,emporiopropiedadraiz@gmail.com,3,4,2,0.0,22.0,2006,2,5,189.0,3,1521444.0,Carrera,80 A,28,109,Medellín,Colombia,1,528938109.98912233,2798614.3385667847,3438097.7149292952
+0,Carlos Mario ,Palacio Posada ,pp.carlosmario@gmail.com,4,5,1,790000.0,0.0,2006,2,4,215.0,10,9900000.0,Carrera,25,12 Sur,330,Medellín,Colombia,1,906840368.5810364,4217862.179446681,4624885.879763287
+0,mauricio,velasquez  escobar,emporiopropiedadraiz@gmail.com,3,3,2,550000.0,19.0,1988,2,4,101.0,2,1208000.0,Calle,37 b sur,27 e,53,Envigado,Colombia,1,399627673.9026427,3956709.642600423,2038101.1369034778
+0,Aide Maria ,Londoño Ceballos,aidemaloce@hotmail.com,3,4,1,790000.0,0.0,2006,2,6,198.0,7,7000000.0,Calle,5A,39,62,Medellín,Colombia,1,1118390389.712392,5648436.311678748,7269537.533130549
+0,CLAUDIA ,SIERRA,outleinmobiliario@hotmail.com,3,5,1,116000.0,0.0,2007,3,6,230.0,2,6981213.0,Calle,4,28,51,Medellín,Colombia,1,700544404.7486904,3045845.238037784,4553538.6308664875
+0,CLAUDIA,SIERRA,outletinmobiliario@hotmail.com,3,5,1,1116000.0,0.0,2007,3,6,230.0,2,6981213.0,Calle,4,28,51,Medellín,Colombia,1,1212995788.7315252,5273894.733615327,7884472.626754914
+0,mauricio,velasquez  escobar,emporiopropiedadraiz@gmail.com,3,2,1,487005.0,0.0,1989,1,6,95.0,4,1228598.0,Calle,20 B SUR,35,203,Medellín,Colombia,1,422537625.31949586,4447764.477047325,2746494.564576723
+0,Nicolas,Mondragon,nicolasmondragon@gmail.com,3,4,1,600000.0,0.0,2001,2,6,153.0,4,3000000.0,Calle,20A sur,22,205,Medellín,Colombia,1,742080678.880252,4850200.5155572025,4823524.412721638
+0,Nicolas,Mondragon,nicolasmondragon@gmail.com,2,4,1,600000.0,0.0,2001,2,6,153.0,4,4000000.0,Calle,20A sur,22,205,Envigado,Colombia,1,726888897.6013331,4750907.827459694,4724777.834408665
+0,Nicolas,Mondragon,nicolasmondragon@gmail.com,2,4,1,600000.0,0.0,2001,2,5,153.0,4,4000000.0,Calle,20A sur,22A,205,Medellín,Colombia,1,718958389.9233541,4699074.443943491,4673229.534501802
+0,Nicolas,Mondragon,nicolasmondragon@gmail.com,2,4,1,750000.0,0.0,2001,2,6,153.0,4,4500000.0,Calle,20ASUR,22,205,Medellín,Colombia,1,812575027.5748554,5310947.892646114,5281737.67923656
+0,mauricio,velasquez  escobar,emporiopropiedadraiz@gmail.com,3,4,1,560000.0,0.0,2006,2,6,209.0,21,3850000.0,Carrera,44,16 Sur,167,Medellín,Colombia,1,1120072744.86185,5359199.736181101,7280472.841602025
+0,mauricio,velasquez  escobar,emporiopropiedadraiz@gmail.com,3,2,1,399000.0,0.0,2004,2,5,80.0,13,3700000.0,Carrera,64 A,48,55,Medellín,Colombia,1,441702997.7882244,5521287.472352805,2871069.4856234584
+0,Carlos Mario ,Palacio Posada,pp.carlosmario@gmail.com,5,3,2,0.0,6.0,1988,0,3,120.0,2,1200000.0,Calle,47A,100 C,7,Medellín,Colombia,1,347451059.281191,2895425.494009925,1772000.402334074
+0,mauricio,velasquez  escobar,emporiopropiedadraiz@gmail.com,2,2,1,360000.0,0.0,1996,1,5,72.0,5,1200000.0,Carrera,42 B,23 A sur,14,Envigado,Colombia,1,340312850.0823058,4726567.362254247,2212033.525534988
+0,ESTEBAN  ,GONZALEZ,ASISTENTE@AVALUARVALORES.COM,3,2,1,0.0,0.0,20,1,6,120.0,4,0.0,Calle,19,42,82,Medellín,Colombia,1,329568559.45369196,2746404.6621140996,2142195.636448998
+0,ESTEBAN  ,GONZALEZ,ASISTENTE@AVALUARVALORES.COM,3,3,1,0.0,0.0,2008,1,6,90.0,5,0.0,Calle,18 c sur ,41 a ,25,Medellín,Colombia,1,336076502.3695791,3734183.35966199,2184497.265402264
+0,mauricio,velasquez  escobar,emporiopropiedadraiz@gmail.com,3,4,1,985000.0,0.0,1987,2,6,197.0,5,1964283.0,Carrera,43 C,1 A SUR,182,Medellín,Colombia,1,838702347.1460118,4257372.3205381315,5451565.256449077
+0,Aide Maria ,Londoño Ceballos,aidemaloce@hotmail.com,3,3,1,650000.0,20.0,2018,2,6,100.0,2,4000000.0,Calle,24,39A,70,Medellín,Colombia,1,721536828.4882164,7215368.284882164,4689989.385173406
+0,Carlos mario ,Palacio posada ,pp.carlosmario@gmail.com,2,3,1,883.0,48.0,1998,2,6,113.0,2,5200000.0,Calle,4A,29C,83,Medellín,Colombia,1,435552479.1814533,3854446.7184199407,2831091.1146794464
+0,Esteban,Gonzalez ,esteban@avaluarvalores.com,2,2,1,350000.0,0.0,2015,1,6,72.0,12,2500000.0,Carrera,13sur ,37b,04,Medellín,Colombia,1,481545277.0459312,6688128.847860156,3130044.300798553
+0,Esteban,Gonzalez,esteban@avaluarvalores.com,2,2,1,380000.0,0.0,2015,1,6,78.0,12,2800000.0,Calle,13sur,37b,04,Medellín,Colombia,1,543038998.5135416,6962038.442481303,3529753.4903380205
+0,carlos,montoya,ventas.aporta1@gmail.com,3,3,1,650000.0,0.0,1972,1,5,148.0,2,3000000.0,Calle,32F ,63A,74,Medellín,Colombia,1,536430811.68874615,3624532.511410447,3486800.27597685
+0,carlos,montoya,ventas.aporta1@gmail.com,3,2,1,368300.0,0.0,1990,1,5,87.26,3,1725000.0,Calle,23,43,130,Medellín,Colombia,1,396807429.28578603,4547414.958581091,2579248.2903576093
+0,Carlos Mario ,Palacio ,pp.carlosmario@gmail.com,3,3,1,690000.0,0.0,1992,2,6,147.0,3,5485000.0,Carrera,41AA,18sur,07,Medellín,Colombia,1,709590751.2407521,4827147.967624164,4612339.883064888
+0,mauricio,velasquez  escobar,emporiopropiedadraiz@gmail.com,3,2,1,358200.0,0.0,2001,2,4,110.0,2,1691000.0,Calle,25 Sur,42,40,Envigado,Colombia,1,428212189.40772325,3892838.085524757,2183882.1659793886
+0,mauricio,velasquez  escobar,emporiopropiedadraiz@gmail.com,2,1,1,0.0,0.0,1963,0,2,61.0,1,127248.0,Calle,58,60,53,Itagüi,Colombia,1,168487756.20659503,2762094.3640425415,673951.0248263802
+0,mauricio,velasquez  escobar,emporiopropiedadraiz@gmail.com,3,4,1,853661.0,0.0,2007,2,6,231.0,4,10064668.0,Calle,5 A,35,87,Medellín,Colombia,1,1219007299.2654235,5277087.875607894,7923547.445225253
+0,carlos,montoya,ventas.aporta1@gmail.com,5,6,1,555000.0,59.63,2007,2,5,179.16,-2,3380000.0,Carrera,41A,22 sur,87,Envigado,Colombia,1,812282029.3478725,4533835.841414783,5279833.190761171
+0,mauricio,velasquez  escobar,emporiopropiedadraiz@gmail.com,3,2,1,0.0,7.0,1987,0,3,73.0,1,161500.0,Carrera,40 A,40 F sur,39,Envigado,Colombia,1,247238740.90416896,3386832.067180397,1260917.5786112617
+0,mauricio,velasquez  escobar,emporiopropiedadraiz@gmail.com,4,3,1,830000.0,0.0,1986,2,6,139.0,2,3564000.0,Calle,10 A,28,60,Medellín,Colombia,1,649925022.7048936,4675719.58780499,4224512.647581808
+0,Carlos Mario ,Palacio Posada ,pp.carlosmario@gmail.com,3,3,1,700000.0,0.0,1992,2,6,147.0,4,5400000.0,Carrera,41AA,18 sur,07,Medellín,Colombia,1,717902892.4698917,4883693.146053685,4666368.801054296
+0,carlos,montoya,ventas.aporta1@gmail.com,3,2,1,349.0,0.0,2000,1,5,78.0,11,2.0,Calle,33c,88a,169,Medellín,Colombia,1,274045082.25545484,3513398.4904545494,1781293.0346604565
+0,mauricio,velasquez  escobar,emporiopropiedadraiz@gmail.com,3,4,1,1100000.0,0.0,1989,2,6,202.0,3,2732403.0,Carrera,45,16 Sur,98,Medellín,Colombia,1,879644690.2789657,4354676.684549335,5717690.486813277
+0,Carlos  Mario ,Palacio Posada ,pp.carlosmario@gmail.com,3,2,1,0.0,0.0,2005,0,3,130.0,1,4460000.0,Carrera,46C,44 sur,110,Envigado,Colombia,1,386841216.43420196,2975701.6648784764,1972890.20381443
+0,mauricio,velasquez  escobar,emporiopropiedadraiz@gmail.com,3,2,1,0.0,0.0,1974,0,4,84.0,2,628000.0,Transversal,45 D,80,45,Medellín,Colombia,1,310534067.57553935,3696834.1378040398,1583723.7446352507
+0,Aide Maria ,Londoño Ceballos,aidemaloce@hotmail.com,3,3,1,568000.0,0.0,25,2,6,140.0,4,2865566.0,Carrera,45,15 Sur,38,Medellín,Colombia,1,545698630.8538806,3897847.3632420045,3547041.100550224
+0,Aide Maria ,Londoño Ceballos,aidemaloce@hotmail.com,3,3,1,850000.0,0.0,1977,2,6,174.0,9,4200000.0,Calle,5A,43A,73,Medellín,Colombia,1,737859836.7288598,4240573.774303792,4796088.938737589
+0,mauricio,velasquez  escobar,emporiopropiedadraiz@gmail.com,3,3,1,387670.0,0.0,2020,2,5,119.0,13,3364000.0,Carrera,27D,34DD Sur,69,Envigado,Colombia,1,643575598.3789897,5408198.305705796,4183241.389463433
+0,mauricio,velasquez  escobar,emporiopropiedadraiz@gmail.com,3,2,1,498000.0,0.0,2008,1,5,113.0,3,1723000.0,Calle,32 C SUR,47,54,Envigado,Colombia,1,514665987.2296864,4554566.258669791,3345328.916992962
+0,mauricio,velasquez  escobar,emporiopropiedadraiz@gmail.com,3,4,1,850.0,0.0,2000,3,6,189.0,7,3947466.0,Calle,7,25,177,Medellín,Colombia,1,577075186.0147136,3053307.8625117126,3750988.709095639
+0,mauricio,velasquez  escobar,emporiopropiedadraiz@gmail.com,2,3,1,450000.0,15.0,1985,1,5,89.0,1,2600000.0,Carrera,27 G,36 D Sur,25,Envigado,Colombia,1,406922571.6396362,4572163.726288048,2644996.7156576356
+0,Claudia,Sierra,outletinmobiliario@hotmail.com,3,3,1,391000.0,0.0,1983,1,5,123.2,3,2754012.0,Calle,25 a sur,42 b,61,Envigado,Colombia,1,466871321.404821,3789539.9464677027,3034663.589131336
+0,Aide Maria ,Londoño Ceballos,aidemaloce@hotmail.com,3,2,1,469120.0,0.0,2007,2,5,100.0,5,2300000.0,Carrera,44,22sur,51,Envigado,Colombia,1,535822797.17239434,5358227.971723943,3482848.1816205634
+0,mauricio,velasquez  escobar,emporiopropiedadraiz@gmail.com,3,2,1,0.0,0.0,1990,1,5,88.0,6,1200000.0,Circular,5,66 B,46,Medellín,Colombia,1,365576205.3335292,4154275.060608286,2376245.3346679397
+0,Aide Maria ,Londoño Ceballos,aidemaloce@hotmail.com,4,3,1,420000.0,0.0,1975,1,4,128.0,11,1800000.0,Calle,47,42,60,Medellín,Colombia,1,422150956.9864885,3298054.3514569416,2152969.8806310915
+0,mauricio,velasquez  escobar,emporiopropiedadraiz@gmail.com,3,2,1,670000.0,0.0,1990,2,6,134.0,6,3500000.0,Carrera,32,10,30,Medellín,Colombia,1,663358452.4128646,4950436.212036302,4311829.94068362
+0,mauricio,velasquez  escobar,emporiopropiedadraiz@gmail.com,3,4,1,550000.0,0.0,2005,2,6,164.0,6,1500000.0,Carrera,38,11,48,Medellín,Colombia,1,923014537.35515,5628137.422897256,5999594.492808475
+0,mauricio,velasquez  escobar,emporiopropiedadraiz@gmail.com,3,3,1,485000.0,0.0,1978,1,6,123.0,1,3120000.0,Calle,5,47,67,Medellín,Colombia,1,511984576.6697064,4162476.2330870437,3327899.7483530915
+0,mauricio,velasquez  escobar,emporiopropiedadraiz@gmail.com,2,3,1,1100000.0,0.0,2003,2,6,183.0,11,6000000.0,Calle,7 B,27,70,Medellín,Colombia,1,1104275928.9111638,6034294.693503628,7177793.537922565
+0,FEDERICO,RESTREPO,fecheve8@gmail.com,1,2,1,400000.0,8.0,2020,1,6,88.0,2,7721619.0,Carrera,29A,5 sur,275,Medellín,Colombia,1,602617324.1142162,6847924.137661547,3917012.6067424053
+0,mauricio,velasquez  escobar,emporiopropiedadraiz@gmail.com,3,3,1,620000.0,0.0,1980,1,5,150.0,1,2800000.0,Carrera,29 E,4 Sur,94,Medellín,Colombia,1,581869271.5191315,3879128.4767942103,3782150.2648743554
+0,mauricio,velasquez  escobar,emporiopropiedadraiz@gmail.com,3,3,1,435000.0,7.0,2017,2,5,91.0,3,3561000.0,Calle,32 F,76,105,Sabaneta,Colombia,1,544797046.9747213,5986780.735985949,3541180.8053356884
+0,mauricio,velasquez  escobar,emporiopropiedadraiz@gmail.com,3,3,1,435000.0,7.0,2017,2,5,91.0,3,3561000.0,Calle,32 F,76,105,Medellín,Colombia,1,544797046.9747213,5986780.735985949,3541180.8053356884
+0,mauricio,velasquez  escobar,emporiopropiedadraiz@gmail.com,3,2,1,500000.0,0.0,2011,2,6,105.0,12,5000000.0,Carrera,45,16 Sur,190,Medellín,Colombia,1,633055114.22037,6029096.3259082865,4114858.2424324052
+0,mauricio,velasquez  escobar,emporiopropiedadraiz@gmail.com,3,3,2,882000.0,27.0,1989,2,6,114.0,2,3600000.0,Calle,6,25,112,Medellín,Colombia,1,550551107.4321947,4829395.679229778,3578582.198309266
+0,mauricio,velasquez  escobar,emporiopropiedadraiz@gmail.com,3,2,1,220000.0,0.0,2022,1,4,71.0,17,1200000.0,Carrera,54 C,13 A Sur,25,Itagüi,Colombia,1,361148447.73705244,5086597.855451443,1841857.0834589675
+0,Aide Maria ,Londoño Ceballos,aidemaloce@hotmail.com,3,4,1,590000.0,16.0,2020,2,5,120.0,11,3600000.0,Calle,28 sur,27,201,Envigado,Colombia,1,700347166.8630639,5836226.390525533,4552256.5846099155
+0,mauricio,velasquez  escobar,emporiopropiedadraiz@gmail.com,2,4,3,1461000.0,70.0,2006,2,6,280.0,17,7992070.0,Carrera,39,13 Sur,55,Medellín,Colombia,1,1486331264.6662104,5308325.945236466,9661153.220330369
+0,mauricio,velasquez  escobar,emporiopropiedadraiz@gmail.com,1,2,2,490000.0,0.0,2008,1,6,55.0,13,2000000.0,Calle,11 B,36 B,65,Medellín,Colombia,1,437466564.63279265,7953937.538778048,2843532.6701131524
+0,mauricio,velasquez  escobar,emporiopropiedadraiz@gmail.com,3,2,1,290000.0,0.0,2020,1,4,74.0,13,2000000.0,Carrera,75,61,85,Medellín,Colombia,1,371258437.6177031,5017005.913752744,1893418.0318502858
+0,mauricio,velasquez  escobar,emporiopropiedadraiz@gmail.com,3,2,1,339000.0,0.0,2014,1,4,79.0,24,1658779.0,Carrera,53,73 Sur ,40,Itagüi,Colombia,1,411856751.9470292,5213376.60692442,2100469.434929849
+0,mauricio,velasquez  escobar,emporiopropiedadraiz@gmail.com,3,2,1,0.0,0.0,1989,0,3,108.0,2,422259.0,Carrera,91 C,47 A ,13,Medellín,Colombia,1,320663588.5203044,2969107.3011139296,1635384.3014535522
+0,mauricio,velasquez  escobar,emporiopropiedadraiz@gmail.com,3,3,1,773801.0,0.0,1995,2,5,140.0,8,1967308.0,Carrera,29,1,131,Medellín,Colombia,1,675638207.7803546,4825987.198431104,4391648.350572306
+0,Carlos Mario,Palacio,pp.carlosmario@gmail.com,3,3,1,539000.0,0.0,1985,1,5,121.0,5,1400000.0,Calle,22 sur,40,63,Envigado,Colombia,1,445392423.6744912,3680929.121276787,2895050.7538841935
+0,mauricio,velasquez  escobar,emporiopropiedadraiz@gmail.com,3,2,1,750000000.0,55.0,1987,1,6,134.0,1,3765000.0,Carrera,32 B,10,32,Medellín,Colombia,1,625021529.68468,4664339.773766269,4062639.9429504196
+0,mauricio,velasquez  escobar,emporiopropiedadraiz@gmail.com,2,3,2,500000.0,0.0,2017,2,6,124.0,27,5000000.0,Calle,17,27 A,109,Medellín,Colombia,1,977285170.4129333,7881332.01945914,6352353.607684067
+0,mauricio,velasquez  escobar,emporiopropiedadraiz@gmail.com,3,2,1,690.0,0.0,2010,2,6,125.0,20,5340167.0,Carrera,29 A,7 B,91,Medellín,Colombia,1,452890100.5450715,3623120.804360572,2943785.6535429643
+0,mauricio,velasquez  escobar,emporiopropiedadraiz@gmail.com,3,2,1,309986.0,0.0,2019,1,5,79.0,4,2590104.0,Carrera,77,41,31,Medellín,Colombia,1,434473949.70335394,5499670.249409543,2824080.6730718003
+0,Aide Maria ,Londoño Ceballos,aidemaloce@hotmail.com,2,2,1,250000.0,0.0,2022,1,4,67.0,11,1530000.0,Calle,78 sur,40,115,Sabaneta,Colombia,1,351383592.520716,5244531.231652478,1792056.3218556517
+0,mauricio,velasquez  escobar,emporiopropiedadraiz@gmail.com,2,2,1,368000.0,0.0,2012,1,6,68.0,12,1460000.0,Carrera,37 A,11 B ,73,Medellín,Colombia,1,456620636.70065445,6715009.363244918,2968034.138554254
+0,mauricio,velasquez  escobar,emporiopropiedadraiz@gmail.com,3,2,1,0.0,9.0,1972,0,3,131.0,1,506300.0,Calle,2A Sur,55,66,Medellín,Colombia,1,341199928.7224688,2604579.608568464,1740119.6364845908
+0,mauricio,velasquez  escobar,emporiopropiedadraiz@gmail.com,3,2,1,0.0,15.0,1972,0,3,122.0,2,506300.0,Calle,2A Sur,55,68,Medellín,Colombia,1,327932968.5076243,2687975.1517018387,1672458.139388884
+0,mauricio,velasquez  escobar,emporiopropiedadraiz@gmail.com,3,2,1,0.0,5.0,2008,0,3,117.0,3,506300.0,Calle,2A Sur,55,58,Medellín,Colombia,1,309291143.2440838,2643514.0448212293,1577384.8305448275
+0,mauricio,velasquez  escobar,emporiopropiedadraiz@gmail.com,3,2,1,673000.0,0.0,1990,1,5,150.0,3,4050000.0,Calle,20 Sur,26C ,140,Medellín,Colombia,1,581789744.1467249,3878598.2943114997,3781633.336953712
+0,mauricio,velasquez  escobar,emporiopropiedadraiz@gmail.com,3,3,1,1050000.0,63.0,2004,2,6,117.0,2,2100000.0,Calle,27 Sur,28,270,Envigado,Colombia,1,639035600.4784381,5461842.73913195,4153731.403109848
+0,Aide Maria ,Londoño Ceballos,aidemaloce@hotmail.com,2,2,1,274000.0,0.0,2006,1,5,71.0,3,1666829.0,Carrera,78,34A,56,Medellín,Colombia,1,373134334.53163886,5255413.162417449,2425373.1744556525
+0,mauricio,velasquez  escobar,emporiopropiedadraiz@gmail.com,3,2,1,604102.0,20.0,1996,1,5,149.0,2,1372311.0,Carrera,37 A,1 Sur,155,Sabaneta,Colombia,1,613900949.7071313,4120140.602061284,3990356.173096353
+0,mauricio,velasquez  escobar,emporiopropiedadraiz@gmail.com,3,2,1,604102.0,20.0,1996,1,5,149.0,2,1372311.0,Carrera,37 A,1 Sur,155,Medellín,Colombia,1,613900949.7071313,4120140.602061284,3990356.173096353
+0,CLAUDIA,SIERRA,outletinmobiliario@hotmail.com,3,2,1,4300000.0,0.0,2014,1,4,121.0,5,2668000.0,Carrera,86,35b,20,Medellín,Colombia,1,686634605.8011557,5674666.163645915,3501836.489585894
+0,mauricio,velasquez  escobar,emporiopropiedadraiz@gmail.com,2,2,1,550000.0,0.0,1984,2,6,132.0,4,3242500.0,Carrera,45,15 sur,38,Medellín,Colombia,1,593765454.2992646,4498223.1386307925,3859475.45294522
+0,CLAUDIA,SIERRA,outletinmobiliario@hotmail.com,3,2,1,430000.0,0.0,2011,1,4,94.0,15,1982000.0,Calle,49 D sur,40 A,469,Envigado,Colombia,1,467907750.1129709,4977742.022478414,2386329.5255761514
+0,mauricio,velasquez  escobar,emporiopropiedadraiz@gmail.com,2,2,1,600000.0,0.0,1998,2,6,100.0,4,4000000.0,Calle,20 Sur,35,142,Medellín,Colombia,1,510837188.69773394,5108371.886977339,3320441.726535271
+0,mauricio,velasquez  escobar,emporiopropiedadraiz@gmail.com,2,2,1,0.0,13.0,1988,0,5,64.0,4,763070.0,Carrera,81 B,48A,80,Medellín,Colombia,1,293306642.2137614,4582916.284590022,1906493.174389449
+0,mauricio,velasquez  escobar,emporiopropiedadraiz@gmail.com,2,2,1,536000.0,0.0,1986,2,6,91.0,5,2664852.0,Carrera,29 E,4 Sur,131,Medellín,Colombia,1,437294725.9144125,4805436.548510027,2842415.7184436815
+0,Aide Maria ,Londoño Ceballos,aidemaloce@hotmail.com,2,3,1,540000.0,0.0,2018,2,5,114.0,15,8000000.0,Carrera,27 B,37 B SUR,83,Envigado,Colombia,1,672349459.1911293,5897802.273606397,4370271.484742341
+0,Aide Maria ,Londoño Ceballos,aidemaloce@hotmail.com,2,3,1,390000.0,0.0,2023,2,4,84.0,12,4000000.0,Carrera,37,46F SUR,101,Envigado,Colombia,1,481348892.73052174,5730343.96107764,2454879.352925661
+0,mauricio,velasquez  escobar,emporiopropiedadraiz@gmail.com,2,2,1,110000.0,0.0,1999,1,5,30.0,6,456459.0,Carrera,83A,40A,87,Medellín,Colombia,1,187592872.29634866,6253095.743211622,1219353.6699262664
+0,mauricio,velasquez  escobar,emporiopropiedadraiz@gmail.com,3,2,1,561404.0,0.0,1984,1,5,111.0,4,922306.0,Calle,17 A Sur,48,76,Medellín,Colombia,1,446480224.8348583,4022344.3678816063,2902121.461426579
+0,carlos,montoya,ventas.aporta1@gmail.com,3,2,1,306000.0,0.0,2013,1,4,72.5,13,1400000.0,Carrera,41 ,57 SUR,53,Sabaneta,Colombia,1,360885641.9829384,4977732.992868116,1840516.774112986
+0,mauricio,velasquez  escobar,emporiopropiedadraiz@gmail.com,2,2,1,299000.0,0.0,2000,1,5,71.0,6,1051107.0,Carrera,78,34A,56,Medellín,Colombia,1,343036225.0213921,4831496.127061861,2229735.4626390487

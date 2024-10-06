@@ -1,0 +1,46 @@
+https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-function-linux-custom-image?tabs=in-process%2Cbash%2Cazure-cli&pivots=programming-language-python
+
+#virtal environment
+
+cd ApartamentosDockerAzure/
+python3 -m venv ~/.virtualenv/AldeaAptosFunc
+source ~/.virtualenv/AldeaAptosFunc/bin/activate
+
+###############################################
+#Create and test the local functions project
+
+func init --worker-runtime python --docker
+func new --name AldeaAptosFunc --template "HTTP trigger" --authlevel anonymous
+func start  
+
+curl -X POST  \
+    -d '{"Alcobas":3, "Banos":2, "Niveles":1, "Administracion":193000, "AreaTerraza":0, "AnoConstruccion":2018, "CantidadParqueaderos":2, "Estrato":4, "M2Construidos":76, "Piso":16, "Predial":680000, "TipoDeVia":"Calle", "Numero1":"78E Sur", "Numero2":"47C", "Numero3":"80", "Ciudad":"Sabaneta", "Pais":"Colombia"}' \
+    http://localhost:7071/api/AldeaAptosFunc
+
+
+###########################################
+#Build the container image and test locally
+
+-Create requirements file 
+pip freeze > requirements.txt
+Add this line manually : azure-functions
+
+-Set-up docker file
+Add the line
+RUN apt install -y  texlive
+
+
+-Build the docker image
+sudo docker build --tag aldeaai/azurefunctionsimage:v1.0.0 .
+
+-test the image
+sudo docker run -p 8080:80 -it aldeaai/azurefunctionsimage:v1.0.0
+
+curl -X POST  \
+    -d '{"Alcobas":3, "Banos":2, "Niveles":1, "Administracion":193000, "AreaTerraza":0, "AnoConstruccion":2018, "CantidadParqueaderos":2, "Estrato":4, "M2Construidos":76, "Piso":16, "Predial":680000, "TipoDeVia":"Calle", "Numero1":"78E Sur", "Numero2":"47C", "Numero3":"80", "Ciudad":"Sabaneta", "Pais":"Colombia"}' \
+    http://localhost:8080/api/AldeaAptosFunc
+    
+###########################################    
+TODO
+Write email
+get inputs via post json
